@@ -4,7 +4,7 @@
   "description": "API project for freeCodeCamp",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-filemetadata"
+    "url": "htttps://github.com/hades4511/CodeCampFileApi.git"
   },
   "keywords": [
     "node",
